@@ -1,0 +1,50 @@
+body {
+  background: url(bg1.png) no-repeat;
+}
+.navbar {
+  font-family: Arial;
+  font-size: 100%;
+  background: #fff;
+}
+.logo{
+  position: absolute;
+  left: 10%;
+  top: 3%;
+}
+.buttons {
+  position: absolute;
+  top: 8%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+.buttons > ul > li {
+  display:inline-block;
+}
+.buttons > ul > li > a {
+  font-family: Arial;
+  font-size: 1.1em;
+  padding: 0.5em 1.5em;
+  color: white;
+}
+.icons {
+  position: absolute;
+  top: 4%;
+  right: 8%;
+}
+.icons > ul > li {
+  display:inline-block;
+  padding: 0.5em 1em;
+}
+.line {
+  margin-top: 7%;
+  height:100%;
+}
+.maintext {
+  font-family: Arial;
+  text-align: center;
+  font-weight: bold;
+  color: #5181b8;
+  padding-top: 5%;
+  font-size: 800%;
+}
