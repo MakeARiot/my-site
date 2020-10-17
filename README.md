@@ -12,8 +12,8 @@
 :negative_squared_cross_mark: Вернуться к работе   
 
 ### В планах
-:black_square_button: Подкрутить JavaScript ![https://img.shields.io/badge/JavaScript-%20-orange](https://img.shields.io/badge/JavaScript-%20-orange)
-
+:black_square_button: Подкрутить JavaScript ![https://img.shields.io/badge/JavaScript-%20-orange](https://img.shields.io/badge/JavaScript-%20-orange)   
+:black_square_button: Апнуть 3к pp в osu!
 ### Прогресс
 ![https://progress-bar.dev/10/](https://progress-bar.dev/10/)
 
