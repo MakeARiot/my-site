@@ -1,4 +1,16 @@
+/* body{
+  background: url(media/block1/bg1.png) no-repeat;
+} */
 body{
+  margin: 0;
+  padding: 0;
+}
+#first{
+  /* margin: 0;
+  padding: 0; */
+  position: absolute;
+  height: 100%;
+  width: 100%;
   background: url(media/block1/bg1.png) no-repeat;
 }
 .navbar {
@@ -38,7 +50,7 @@ body{
 }
 .line {
   margin-top: 7%;
-  height:100%;
+  width: 98%;
 }
 .maintext {
   font-family: Arial;
