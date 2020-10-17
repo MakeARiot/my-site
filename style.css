@@ -1,4 +1,4 @@
-body {
+body{
   background: url(media/block1/bg1.png) no-repeat;
 }
 .navbar {
@@ -6,7 +6,7 @@ body {
   font-size: 100%;
   background: #fff;
 }
-.logo{
+#logo{
   position: absolute;
   left: 10%;
   top: 3%;
