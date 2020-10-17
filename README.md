@@ -14,7 +14,8 @@
 ### В планах
 :black_square_button: Подкрутить JavaScript ![https://img.shields.io/badge/JavaScript-%20-orange](https://img.shields.io/badge/JavaScript-%20-orange)
 
-Общий итог: ![https://progress-bar.dev/10/](https://progress-bar.dev/10/)
+### Прогресс
+![https://progress-bar.dev/10/](https://progress-bar.dev/10/)
 
 <pre>
 Проверка работоспособности сайта: <kbd>Alt</kbd>+<kbd>F4</kbd>
