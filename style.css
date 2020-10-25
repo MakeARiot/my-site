@@ -1,13 +1,8 @@
-/* body{
-  background: url(media/block1/bg1.png) no-repeat;
-} */
 body{
   margin: 0;
   padding: 0;
 }
 #first{
-  /* margin: 0;
-  padding: 0; */
   position: absolute;
   height: 100%;
   width: 100%;
@@ -59,4 +54,103 @@ body{
   color: #5181b8;
   padding-top: 5%;
   font-size: 800%;
+}
+#second-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.block2{
+  position: absolute;
+  background-color: #11749e;
+  height: 90%;
+  width: 100%;
+  top: 100%;
+}
+.block2text{
+  font-family: Arial;
+  text-align: center;
+  color: #6EB0CC;
+  font-size: 1500%;
+  font-weight: bold;
+  margin-top: -9%;
+}
+.block2text2{
+  position: absolute;
+  left: 34%;
+  top: 18%;
+  font-family: Arial;
+  color: white;
+  font-size: 15%;
+  letter-spacing: 2px;
+}
+.picstable{
+  position: absolute;
+  left: 25%;
+  letter-spacing: 155px;
+  top: 47%;
+}
+.texttable1{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 475px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.texttable2{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 765px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.texttable3{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1045px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.texttable4{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1345px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.textdesc1{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 440px;
+  bottom: 20%;
+  font-size: 80%;
+}
+.textdesc2{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 735px;
+  bottom: 20%;
+  font-size: 80%;
+}
+.textdesc3{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1025px;
+  bottom: 20%;
+  font-size: 80%;
+}
+.textdesc4{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1315px;
+  bottom: 20%;
+  font-size: 80%;
 }
