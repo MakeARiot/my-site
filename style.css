@@ -1,17 +1,11 @@
-/* body{
-  background: url(media/block1/bg1.png) no-repeat;
-} */
+/* 1 */
 body{
   margin: 0;
   padding: 0;
 }
 #first{
-  /* margin: 0;
-  padding: 0; */
-  position: absolute;
-  height: 100%;
-  width: 100%;
   background: url(media/block1/bg1.png) no-repeat;
+  height: 100vh;
 }
 .navbar {
   font-family: Arial;
@@ -49,8 +43,10 @@ body{
   padding: 0.5em 1em;
 }
 .line {
+  position: absolute;
   margin-top: 7%;
-  width: 98%;
+  margin-left: 2%;
+  width: 96%;
 }
 .maintext {
   font-family: Arial;
@@ -59,4 +55,50 @@ body{
   color: #5181b8;
   padding-top: 5%;
   font-size: 800%;
+}
+/* 2 */
+#second-block{
+  height: 100vh;
+  width: 100vw;
+  background: url(media/block2/bluebg.png);
+  display: inline-block;
+}
+#big-w{
+  color: rgb(148, 243, 243);
+  text-align: center;
+  font-size: 1300%;
+  margin-top: 0vh;
+}
+#we-are{
+  position: absolute;
+  color: white;
+  /* text-align: center; */
+  margin-top: -47vh;
+  margin-left: 32vw;
+  font-size: 350%;
+}
+#list div{
+  display: inline-block;
+  text-align: center;
+  width: 15vw;
+  margin-left: 30vw;
+
+}
+#list h3{
+  text-align: center;
+}
+
+
+/* footer */
+footer{
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(31, 30, 30);
+  text-align: center;
+
+}
+footer p{
+  display:inline-block;
+  height: 15vh;
+  color: aliceblue;
 }
