@@ -3,12 +3,12 @@
 
 ### Выполнено: 
 :white_check_mark: Макет разбит на медиа файлы   
-:white_check_mark: Реализован первый блок сайта   
+:white_check_mark: Реализован первый, второй и третий блок сайта   
 :white_check_mark: Оформлен репозитарий _(А зачем?)_   
 :white_check_mark: Забить куй   
 
 ### Не выполнено:
-:negative_squared_cross_mark: 2-8 блок сайта   
+:negative_squared_cross_mark: 4-8 блок сайта   
 :negative_squared_cross_mark: Вернуться к работе   
 
 ### В планах
