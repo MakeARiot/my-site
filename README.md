@@ -8,14 +8,14 @@
 :white_check_mark: Забить куй   
 
 ### Не выполнено:
-:negative_squared_cross_mark: 4-8 блок сайта   
+:negative_squared_cross_mark: 5-8 блок сайта   
 :negative_squared_cross_mark: Вернуться к работе   
 
 ### В планах
 :black_square_button: Подкрутить JavaScript ![https://img.shields.io/badge/JavaScript-%20-orange](https://img.shields.io/badge/JavaScript-%20-orange)   
 :black_square_button: Апнуть 3к pp в osu!
 ### Прогресс
-![https://progress-bar.dev/10/](https://progress-bar.dev/30/)
+![https://progress-bar.dev/10/](https://progress-bar.dev/50/)
 
 <pre>
 Проверка работоспособности сайта: <kbd>Alt</kbd>+<kbd>F4</kbd>
