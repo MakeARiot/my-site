@@ -3,10 +3,9 @@ body{
   padding: 0;
 }
 #first{
-  position: absolute;
-  height: 100%;
-  width: 100%;
+  height: 50vw;
   background: url(media/block1/bg1.png) no-repeat;
+  margin-top: 0vw;
 }
 .navbar {
   font-family: Arial;
@@ -44,19 +43,22 @@ body{
   padding: 0.5em 1em;
 }
 .line {
-  margin-top: 7%;
-  width: 98%;
+  position: absolute;
+  top: 13%;
+  width: 99%;
+  color: white;
+  height: 1px;
+  background-color: white;
 }
 .maintext {
   font-family: Arial;
   text-align: center;
   font-weight: bold;
   color: #5181b8;
-  padding-top: 5%;
+  padding-top: 15%;
   font-size: 800%;
 }
 #second-block{
-  position: absolute;
   height: 100%;
   width: 100%;
 }
@@ -155,7 +157,6 @@ body{
   font-size: 80%;
 }
 #third1-block{
-  position: absolute;
   height: 100%;
   width: 100%;
 }
@@ -193,7 +194,6 @@ body{
   top: 35%;  
 }
 #third2-block{
-  position: absolute;
   height: 100%;
   width: 100%;
 }	
