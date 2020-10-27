@@ -1,4 +1,11 @@
-body {
+body{
+  margin: 0;
+  padding: 0;
+}
+#first{
+  position: absolute;
+  height: 100%;
+  width: 100%;
   background: url(media/block1/bg1.png) no-repeat;
 }
 .navbar {
@@ -6,7 +13,7 @@ body {
   font-size: 100%;
   background: #fff;
 }
-.logo{
+#logo{
   position: absolute;
   left: 10%;
   top: 3%;
@@ -38,7 +45,7 @@ body {
 }
 .line {
   margin-top: 7%;
-  height:100%;
+  width: 98%;
 }
 .maintext {
   font-family: Arial;
@@ -47,4 +54,337 @@ body {
   color: #5181b8;
   padding-top: 5%;
   font-size: 800%;
+}
+#second-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.block2{
+  position: absolute;
+  background-color: #11749e;
+  height: 90%;
+  width: 100%;
+  top: 100%;
+}
+.block2text{
+  font-family: Arial;
+  text-align: center;
+  color: #6EB0CC;
+  font-size: 1500%;
+  font-weight: bold;
+  margin-top: -9%;
+}
+.block2text2{
+  position: absolute;
+  left: 34%;
+  top: 18%;
+  font-family: Arial;
+  color: white;
+  font-size: 15%;
+  letter-spacing: 2px;
+}
+.picstable{
+  position: absolute;
+  left: 25%;
+  letter-spacing: 155px;
+  top: 47%;
+}
+.texttable1{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 475px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.texttable2{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 765px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.texttable3{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1045px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.texttable4{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1345px;
+  bottom: 30%;
+  font-size: 120%;
+}
+.textdesc1{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 440px;
+  bottom: 20%;
+  font-size: 80%;
+}
+.textdesc2{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 735px;
+  bottom: 20%;
+  font-size: 80%;
+}
+.textdesc3{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1025px;
+  bottom: 20%;
+  font-size: 80%;
+}
+.textdesc4{
+  position: absolute;
+  font-family: Arial;
+  color: white;
+  left: 1315px;
+  bottom: 20%;
+  font-size: 80%;
+}
+#third1-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.newsblock{
+  position: absolute;
+  background-color: #222222;
+  top: 190%;
+  height: 53%;
+  width: 100%;
+}
+.newsblock > im {
+  position: absolute;	
+  left: 55%;
+}
+.textnews1{
+  position: absolute;	
+  color: gray;
+  font-family: Arial;
+  left: 20%;
+  top: 8%;
+}	
+.textnews2{
+  position: absolute;	
+  color: white;
+  font-family: Arial;
+  font-size: 200%;
+  left: 20%;
+  top: 12%;
+}
+.textnews3{
+  position: absolute;	
+  color: white;
+  font-family: Arial;
+  left: 20%;
+  top: 35%;  
+}
+#third2-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}	
+.newsblock2{
+  position: absolute;
+  background-color: #f3f3f3;
+  top: 242%;
+  height: 53%;
+  width: 100%;
+}
+.newsblock2 > im2 {
+  position: absolute;	
+  right: 56%;
+}
+.textnews4{
+  position: absolute;	
+  color: black;
+  font-family: Arial;
+  right: 38%;
+  top: 8%;
+}	
+.textnews5{
+  position: absolute;	
+  color: black;
+  font-family: Arial;
+  font-size: 200%;
+  right: 34%;
+  top: 12%;
+}
+.textnews6{
+  position: absolute;	
+  color: black;
+  font-family: Arial;
+  right: 23%;
+  top: 33%;  
+}
+#fourth-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 194%;
+}
+.block4{
+  position: absolute;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  top: 100%;
+}
+.block4text{
+  font-family: Arial;
+  text-align: center;
+  color: #B6B6B6;
+  font-size: 1500%;
+  font-weight: bold;
+  margin-top: -11%;
+}
+.block4text2{
+  position: absolute;
+  left: 43%;
+  top: 11%;
+  font-family: Arial;
+  color: black;
+  font-size: 15%;
+  letter-spacing: 2px;
+}
+.textblock4{
+  position: absolute;
+  font-family: Arial;
+  color: black;
+  left: 36%;
+  font-size: 150%;
+  margin-top: -15%;
+}
+.picstable2{
+  position: absolute;
+  left: 18%;
+  letter-spacing: 25px;
+  top: 39%;
+}
+.texttable5{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 355px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.texttable6{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 675px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.texttable7{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 990px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.texttable8{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 1300px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.textdesc5{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 370px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+.textdesc6{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 690px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+.textdesc7{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 1000px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+.textdesc8{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 1315px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+#fourth1-block{
+  position: absolute;
+  height: 30%;
+  width: 100%;
+  background-color: #11749e;
+  top: 395%;
+}
+.picstable3{
+  position: absolute;
+  height: 30%;
+  letter-spacing: 560px;
+  top: 20%;
+  left: 18%;
+}
+.texttable9{
+  position: absolute;
+  top: 17%;
+  line-height: 0.8em;
+  left: 23%;
+  letter-spacing: 1px;
+  color: white;
+  font-family: Arial;
+  font-size: 90%;
+}
+.texttable10{
+  position: absolute;
+  top: 17%;
+  line-height: 0.8em;
+  left: 57%;
+  letter-spacing: 1px;
+  color: white;
+  font-family: Arial;
+  font-size: 90%;
 }
