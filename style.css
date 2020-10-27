@@ -154,3 +154,79 @@ body{
   bottom: 20%;
   font-size: 80%;
 }
+#third1-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.newsblock{
+  position: absolute;
+  background-color: #222222;
+  top: 190%;
+  height: 53%;
+  width: 100%;
+}
+.newsblock > im {
+  position: absolute;	
+  left: 55%;
+}
+.textnews1{
+  position: absolute;	
+  color: gray;
+  font-family: Arial;
+  left: 20%;
+  top: 8%;
+}	
+.textnews2{
+  position: absolute;	
+  color: white;
+  font-family: Arial;
+  font-size: 200%;
+  left: 20%;
+  top: 12%;
+}
+.textnews3{
+  position: absolute;	
+  color: white;
+  font-family: Arial;
+  left: 20%;
+  top: 35%;  
+}
+#third2-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}	
+.newsblock2{
+  position: absolute;
+  background-color: #f3f3f3;
+  top: 242%;
+  height: 53%;
+  width: 100%;
+}
+.newsblock2 > im2 {
+  position: absolute;	
+  right: 56%;
+}
+.textnews4{
+  position: absolute;	
+  color: black;
+  font-family: Arial;
+  right: 38%;
+  top: 8%;
+}	
+.textnews5{
+  position: absolute;	
+  color: black;
+  font-family: Arial;
+  font-size: 200%;
+  right: 34%;
+  top: 12%;
+}
+.textnews6{
+  position: absolute;	
+  color: black;
+  font-family: Arial;
+  right: 23%;
+  top: 33%;  
+}
