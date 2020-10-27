@@ -230,3 +230,161 @@ body{
   right: 23%;
   top: 33%;  
 }
+#fourth-block{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 194%;
+}
+.block4{
+  position: absolute;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  top: 100%;
+}
+.block4text{
+  font-family: Arial;
+  text-align: center;
+  color: #B6B6B6;
+  font-size: 1500%;
+  font-weight: bold;
+  margin-top: -11%;
+}
+.block4text2{
+  position: absolute;
+  left: 43%;
+  top: 11%;
+  font-family: Arial;
+  color: black;
+  font-size: 15%;
+  letter-spacing: 2px;
+}
+.textblock4{
+  position: absolute;
+  font-family: Arial;
+  color: black;
+  left: 36%;
+  font-size: 150%;
+  margin-top: -15%;
+}
+.picstable2{
+  position: absolute;
+  left: 18%;
+  letter-spacing: 25px;
+  top: 39%;
+}
+.texttable5{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 355px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.texttable6{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 675px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.texttable7{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 990px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.texttable8{
+  position: absolute;
+  font-family: Arial;
+  color: #11749e;
+  left: 1300px;
+  bottom: 22%;
+  font-size: 120%;
+  font-weight: bold;
+}
+.textdesc5{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 370px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+.textdesc6{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 690px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+.textdesc7{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 1000px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+.textdesc8{
+  position: absolute;
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  left: 1315px;
+  bottom: 6%;
+  font-size: 80%;
+  letter-spacing: 1px;
+  line-height: 1em;
+}
+#fourth1-block{
+  position: absolute;
+  height: 30%;
+  width: 100%;
+  background-color: #11749e;
+  top: 395%;
+}
+.picstable3{
+  position: absolute;
+  height: 30%;
+  letter-spacing: 560px;
+  top: 20%;
+  left: 18%;
+}
+.texttable9{
+  position: absolute;
+  top: 17%;
+  line-height: 0.8em;
+  left: 23%;
+  letter-spacing: 1px;
+  color: white;
+  font-family: Arial;
+  font-size: 90%;
+}
+.texttable10{
+  position: absolute;
+  top: 17%;
+  line-height: 0.8em;
+  left: 57%;
+  letter-spacing: 1px;
+  color: white;
+  font-family: Arial;
+  font-size: 90%;
+}
